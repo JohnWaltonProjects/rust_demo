@@ -1,7 +1,7 @@
 [package]
 name = "yew_one"
 version = "0.1.0"
-authors = ["John <e$mt!##N8P3xIsVkdy6H0c18>"]
+authors = ["John"]
 edition = "2018"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
